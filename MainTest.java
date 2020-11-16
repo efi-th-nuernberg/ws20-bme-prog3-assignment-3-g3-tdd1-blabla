@@ -34,6 +34,9 @@ public class MainTest {
     
     
     
+    assertTrue(1 + 3 == 4);
+    assertFalse(s == null);
+    assertTrue(3 * 7 > 4 * 5);
   }
 }
 
